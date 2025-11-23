@@ -1,1 +1,1 @@
-# LAB-DAMD
+# Laboratório de Desenvolvimento de Aplicações Movéis e Distribuídas
